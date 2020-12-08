@@ -1,0 +1,1 @@
+# object-walking-path-of-a-linear-equation-drawing-with-pixels
